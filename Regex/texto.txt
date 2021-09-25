@@ -1,0 +1,23 @@
+12/13/2019
+_myVar
+my_var
+if
+If
+definition
+wile
+elseif
+else if
+else
+-0.0.6
+-.06
+0.6
+0.-9
+12/1/2020
+1/3/2020
+01/03/2020
++6
++7.5
+"hola mundo"
+"esta es una cadena no válida'
+'cadena válida'
+1variable_
